@@ -1,10 +1,10 @@
 permalink: /:year:month:day/:title
-url: #Your url here
+url: https://calcul.digital
 baseurl: /project
 
 # variables
-name: Your Site Name
-description: Your description here
+name: Mașina de Calcul
+description: Fie că ești dezvoltator, expert în securitate sau simplu entuziast, site-ul nostru îți oferă cele mai noi informații și unelte necesare pentru a rămâne la curent cu dinamica rapidă a tehnologiei. Alătură-te comunității noastre și transformă pasiunea ta într-o aventură continuă de învățare și descoperire.
 google_verification: null
 
 
